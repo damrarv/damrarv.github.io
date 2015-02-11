@@ -1,0 +1,29 @@
+// DM Environment file for Pokemon Adventures.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Buildings.dm"
+#include "Character Selection.dm"
+#include "Clothes.dm"
+#include "Datum.dm"
+#include "Default.dm"
+#include "HUDS.dm"
+#include "Login and Logout.dm"
+#include "Objects.dm"
+#include "Player.dm"
+#include "Savefile.dm"
+#include "Turfs.dm"
+#include "World.dmm"
+// END_INCLUDE
+

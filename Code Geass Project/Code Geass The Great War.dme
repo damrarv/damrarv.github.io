@@ -1,0 +1,28 @@
+// DM Environment file for Code Geass The Great War.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "DragonNest"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Clothes.dm"
+#include "Code Geass The Great War.dm"
+#include "GM Verbs.dm"
+#include "Hair.dm"
+#include "Ikaruga.dm"
+#include "Login.dm"
+#include "Procedure.dm"
+#include "Stat Panel.dm"
+#include "Turfs.dm"
+#include "Vars.dm"
+#include "skin.dmf"
+#include "Map.dmm"
+// END_INCLUDE
