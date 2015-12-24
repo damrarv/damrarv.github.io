@@ -1,0 +1,21 @@
+// DM Environment file for Arctic Cordillera.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "Arctic Cordillera.dm"
+#include "Landscapes.dm"
+#include "Player verbs.dm"
+#include "Procedures.dm"
+#include "Vars.dm"
+#include "Arctic.dmm"
+// END_INCLUDE
